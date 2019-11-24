@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
-INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
-INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
-INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
 MERGED from [androidx.databinding:databinding-adapters:3.5.1] C:\Users\GL62\.gradle\caches\transforms-2\files-2.1\801279e40b3a5152036f366249072a14\databinding-adapters-3.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:3.5.1] C:\Users\GL62\.gradle\caches\transforms-2\files-2.1\0c46e3b797659f9b740e5006e8083797\databinding-runtime-3.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\GL62\.gradle\caches\transforms-2\files-2.1\6dddf9c4a4ceceedc57b7b277a44cdcb\constraintlayout-2.0.0-alpha2\AndroidManifest.xml:2:1-11:12
@@ -35,25 +35,25 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\GL62\.gradle\caches\transforms-2\files-2.1\d1c248ebe847ae80f47e5f7e767d4bad\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\GL62\.gradle\caches\transforms-2\files-2.1\9328ded8677f94605438479562a3c7b9\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\GL62\.gradle\caches\transforms-2\files-2.1\496cdbf7465ef276719127ee3c5acc04\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
-INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
-INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
 	package
-		ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:18:5-49
-		INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:18:5-49
+		INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
-		INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+		INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
-		INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+		INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:11-69
+		ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:11-69
 application
-ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:20:5-35:19
+ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:20:5-35:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\GL62\.gradle\caches\transforms-2\files-2.1\6dddf9c4a4ceceedc57b7b277a44cdcb\constraintlayout-2.0.0-alpha2\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] C:\Users\GL62\.gradle\caches\transforms-2\files-2.1\6dddf9c4a4ceceedc57b7b277a44cdcb\constraintlayout-2.0.0-alpha2\AndroidManifest.xml:9:5-20
 MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\GL62\.gradle\caches\transforms-2\files-2.1\602ba50a41c34d0bf605b7b4c800c218\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
@@ -65,37 +65,37 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\GL
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] C:\Users\GL62\.gradle\caches\transforms-2\files-2.1\5d6674086bd6905e9cbeabac48ec72bf\core-1.0.0\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:26:9-35
+		ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:26:9-35
 	android:label
-		ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:24:9-41
+		ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:24:9-41
 	android:roundIcon
-		ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:25:9-61
+		ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:25:9-61
 	android:icon
-		ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:23:9-50
+		ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:23:9-50
 	android:allowBackup
-		ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:22:9-35
 	android:theme
-		ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:27:9-40
+		ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:27:9-40
 	android:name
-		ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:21:9-42
+		ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:21:9-42
 activity#com.example.android.dessertclicker.MainActivity
-ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:28:9-34:20
+ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:28:9-34:20
 	android:name
-		ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:28:19-81
+		ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:28:19-81
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:29:13-33:29
+ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:30:17-69
+ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:30:25-66
+		ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:32:17-77
+ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml:32:27-74
+		ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml:32:27-74
 uses-sdk
-INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:databinding-adapters:3.5.1] C:\Users\GL62\.gradle\caches\transforms-2\files-2.1\801279e40b3a5152036f366249072a14\databinding-adapters-3.5.1\AndroidManifest.xml:22:5-44
 MERGED from [androidx.databinding:databinding-adapters:3.5.1] C:\Users\GL62\.gradle\caches\transforms-2\files-2.1\801279e40b3a5152036f366249072a14\databinding-adapters-3.5.1\AndroidManifest.xml:22:5-44
 MERGED from [androidx.databinding:databinding-runtime:3.5.1] C:\Users\GL62\.gradle\caches\transforms-2\files-2.1\0c46e3b797659f9b740e5006e8083797\databinding-runtime-3.5.1\AndroidManifest.xml:22:5-44
@@ -158,13 +158,13 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\GL62\.gradle
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\GL62\.gradle\caches\transforms-2\files-2.1\9328ded8677f94605438479562a3c7b9\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\GL62\.gradle\caches\transforms-2\files-2.1\496cdbf7465ef276719127ee3c5acc04\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\GL62\.gradle\caches\transforms-2\files-2.1\496cdbf7465ef276719127ee3c5acc04\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\GL62\Documents\Academic\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\DessertClicker-Starter\app\src\main\AndroidManifest.xml
